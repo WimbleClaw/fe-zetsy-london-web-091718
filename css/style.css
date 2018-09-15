@@ -2,12 +2,8 @@
 
 /* link the web font used for the level 1 heading here */
 
-@font-face {
-	font-family: 'Baskerville';
-	src: url(../fonts/Baskerville.ttc);
-}
+<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville">
 
-@import url(http://fonts.googleapis.com/css?family=Clicker+Scrip
 
 /*////////// Global Styles //////////*/
 
