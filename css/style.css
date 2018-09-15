@@ -49,7 +49,7 @@ p {
 img {
     border: 0;
     border-top-color: #555;
-    border-top-style: initial;
+    border-top-style: #555;
     border-top-width: 0px;
     border-right-color: initial;
     border-right-style: initial;
