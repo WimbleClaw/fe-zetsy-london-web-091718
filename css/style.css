@@ -46,23 +46,7 @@ p {
 	font-size: 0.8em;
 }
 
-img {
-    border: 0;
-    border-top-color: #555;
-    border-top-style: #555;
-    border-top-width: 1px;
-    border-right-color: initial;
-    border-right-style: initial;
-    border-right-width: 0px;
-    border-bottom-color: initial;
-    border-bottom-style: initial;
-    border-bottom-width: 0px;
-    border-left-color: initial;
-    border-left-style: initial;
-    border-left-width: 0px;
-    border-image-source: initial;
-    border-image-slice: initial;
-    border-image-width: initial;
-    border-image-outset: initial;
-    border-image-repeat: initial;
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
 }
